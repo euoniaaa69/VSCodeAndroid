@@ -1,3 +1,5 @@
+# The project is officially retired, so go fork the repo or get lost.
+---
 # VSCode Android Port
 
 This is an open-source port of Visual Studio Code (VSCode) for Android, providing a fully functional development environment on your mobile device. With this app, you can log in, use remote repositories, SSH, install extensions, run code, and more—all on Android!
@@ -53,3 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Disclaimer
 
 This is an unofficial port of Visual Studio Code for Android. It is not endorsed by or affiliated with Microsoft in any way. The original VSCode app is developed and maintained by Microsoft.
+---
